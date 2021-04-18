@@ -1,11 +1,11 @@
-Rotary Delta Printer,
+Rotary Delta,
 
 inspired by the Icepick Delta Project this is my latest Version of a Rotary Delta. Most of the Parts are printed. You need a workspace of 300x300mm to be able to print all Parts.
 
 I used PETG as material and an infill-ratio of 50% with 4 Perimeters and 4 Top & Bottom Layers. You should be familiar in using manuel placed supports. I oriented the STL files as I printed them. I recommend to alaign your Printer as good as possible in X/Y/Z orientation because this will have an effect to the accuracy of the machine.
 
  
-
+-------------------------------------------------------------------------------------------------------------------------
 You will need following Parts for the assambly:
 
 -> Bearing 608ZZ  18x
@@ -46,6 +46,7 @@ You will need following Parts for the assambly:
 
  
 
+-------------------------------------------------------------------------------------------------------------------------------------------------
 Some Values for FW-Setup:
 
 Base-Radius: 80mm
