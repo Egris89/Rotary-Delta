@@ -40,7 +40,7 @@ You will need following Parts for the assambly:
 
 -> HTD 3M 9mm Belts,
 
--> HTD 3M closed belt with 174 theeth, 3x
+-> HTD 3M closed belt with 174mm 58 theeth, 3x
 
 -> Aluminium-Shaft, Diameter 28mm, Lenght 122mm, M5 Threads on Bottom & Top
 
